@@ -1,0 +1,1 @@
+Github repository for Group 12 homework assignments. Note to group: please create your own branches and merge only into main the versions that are sent as solutions to the assignments via ISIS. Thank you :) 
