@@ -1,0 +1,9 @@
+batch_size: 512
+clip_ratio: 0.2
+env: CartPole-v1
+gamma: 0.99
+lam: 0.95
+lr_actor: 0.001
+lr_critic: 0.001
+max_episode_len: 1000
+steps_per_epoch: 2048
